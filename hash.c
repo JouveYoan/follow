@@ -15,7 +15,7 @@ s_tableHash * create_table(int size)
 
     // tableHash->list->newNode = malloc(sizeof(s_node));
     //tableHash->list->nb_elem_list_chaine = 0;
-
+    // Coucou ça va ?
     return tableHash;
 }
 
